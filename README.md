@@ -6,11 +6,11 @@
 
 [![Discord](https://dcbadge.limes.pink/api/server/N4F4aMQ6XP?style=flat)](https://discord.com/invite/N4F4aMQ6XP)
 [![X (Twitter)](https://img.shields.io/twitter/follow/KiritoJPK?style=flat&logo=x)](https://twitter.com/KiritoJPK)
-[![Downloads](https://img.shields.io/github/downloads/KiritoJPK/GOF2-FHD-Android-64-bits/total)](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits/releases)
-[![Release](https://img.shields.io/github/release/KiritoJPK/GOF2-FHD-Android-64-bits)](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/KiritoJPK/GOF2-FHD-Android-64-bit/total)](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit/releases)
+[![Release](https://img.shields.io/github/release/KiritoJPK/GOF2-FHD-Android-64-bit)](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit/releases/latest)
 [![4PDA](https://img.shields.io/badge/-4PDA_GOF2-0854C1)](https://4pda.to/forum/index.php?showtopic=483666)
 
-**[⬇ Download the latest release](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits/releases/latest)**
+**[⬇ Download the latest release](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit/releases/latest)**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 Galaxy on Fire 2 FHD for Android is a fan-made retexturing and enhancement project. It uses the original assets from the macOS, Windows and iPhone versions to bring the Android game closer to them, with interface changes and no FPS limit.
 
-The original Android game only exists as 32-bit code, and many recent phones can no longer run 32-bit apps. This version runs that same game on 64-bit devices through a bridge built on [Dynarmic](https://github.com/azahar-emu/dynarmic), which translates the game's ARM32 code to ARM64 while it runs. It continues the [32-bit project](https://github.com/KiritoJPK/Galaxy-on-Fire-2-FULL-HD-Android), which no longer receives updates.
+The original Android game only exists as 32-bit code, and many recent phones can no longer run 32-bit apps. This version runs that same game on 64-bit devices through a bridge built on [Dynarmic](https://github.com/azahar-emu/dynarmic), which translates the game's ARM32 code to ARM64 while it runs. It continues the [32-bit project](https://github.com/KiritoJPK/GOF2-FHD-Android), which no longer receives updates.
 
 ## Features
 
@@ -88,7 +88,7 @@ The result is `build_arm64/libgof2_arm64_bridge.so`. Every change on top of the 
 
 ## Reporting bugs
 
-Found a bug? Open an [issue](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits/issues/new) or tell us on [Discord](https://discord.com/invite/N4F4aMQ6XP). Please check the [open issues](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bits/issues) first, in case it was already reported.
+Found a bug? Open an [issue](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit/issues/new) or tell us on [Discord](https://discord.com/invite/N4F4aMQ6XP). Please check the [open issues](https://github.com/KiritoJPK/GOF2-FHD-Android-64-bit/issues) first, in case it was already reported.
 
 To help us fix it, include:
 
